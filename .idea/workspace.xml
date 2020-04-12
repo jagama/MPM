@@ -1,0 +1,235 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="BranchesTreeState">
+    <expand>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="LOCAL_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="GROUP_NODE:origin" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+    </expand>
+    <select />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="945cb54f-69f0-40af-9360-074d52298738" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectId" id="1ZkdEW0oaLVCoHbfIn2AQzALFe5" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="autoscrollToSource" value="true" />
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="ASKED_ADD_EXTERNAL_FILES" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="node.js.detected.package.eslint" value="true" />
+    <property name="node.js.path.for.package.eslint" value="project" />
+    <property name="node.js.selected.package.eslint" value="(autodetect)" />
+    <property name="nodejs_package_manager_path" value="yarn" />
+    <property name="settings.editor.selected.configurable" value="project.propVCSSupport.Mappings" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\jacopo\Desktop\React\mpm\mpm\src\components" />
+    </key>
+  </component>
+  <component name="RunAnythingCache">
+    <option name="myCommands">
+      <command value="npm run start" />
+    </option>
+  </component>
+  <component name="RunManager" selected="Node.js.App.js">
+    <configuration name="App.js" type="NodeJSConfigurationType" temporary="true" nameIsGenerated="true" path-to-js-file="$PROJECT_DIR$/src/App.js" working-dir="$PROJECT_DIR$/src">
+      <method v="2" />
+    </configuration>
+    <configuration name="start" type="js.build_tools.npm" temporary="true" nameIsGenerated="true">
+      <package-json value="$PROJECT_DIR$/package.json" />
+      <command value="run" />
+      <scripts>
+        <script value="start" />
+      </scripts>
+      <node-interpreter value="project" />
+      <package-manager value="npm" />
+      <envs />
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="npm.start" />
+        <item itemvalue="Node.js.App.js" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="945cb54f-69f0-40af-9360-074d52298738" name="Default Changelist" comment="" />
+      <created>1585386914511</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1585386914511</updated>
+      <workItem from="1585386918354" duration="4678000" />
+      <workItem from="1585392371374" duration="6678000" />
+      <workItem from="1585409882015" duration="18000" />
+      <workItem from="1585742929234" duration="176000" />
+      <workItem from="1585827469260" duration="11000" />
+      <workItem from="1586607562779" duration="3753000" />
+      <workItem from="1586618248623" duration="7690000" />
+      <workItem from="1586626003813" duration="62000" />
+      <workItem from="1586631007442" duration="397000" />
+    </task>
+    <task id="LOCAL-00001" summary="beta V1">
+      <created>1586623766233</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1586623766233</updated>
+    </task>
+    <task id="LOCAL-00002" summary="commit unversioned">
+      <created>1586623791543</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1586623791543</updated>
+    </task>
+    <task id="LOCAL-00003" summary="gh pages settings">
+      <created>1586624758675</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1586624758675</updated>
+    </task>
+    <task id="LOCAL-00004" summary="gh pages settings">
+      <created>1586624991112</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1586624991112</updated>
+    </task>
+    <task id="LOCAL-00005" summary="gh pages settings">
+      <created>1586625177484</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1586625177484</updated>
+    </task>
+    <task id="LOCAL-00006" summary="fix">
+      <created>1586625680907</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1586625680907</updated>
+    </task>
+    <task id="LOCAL-00007" summary="stable">
+      <created>1586625939306</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1586625939306</updated>
+    </task>
+    <option name="localTasksCounter" value="8" />
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="2" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="oldMeFiltersMigrated" value="true" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
+    <MESSAGE value="beta V1" />
+    <MESSAGE value="commit unversioned" />
+    <MESSAGE value="gh pages settings" />
+    <MESSAGE value="fix" />
+    <MESSAGE value="stable" />
+    <option name="LAST_COMMIT_MESSAGE" value="stable" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="552" y="198" key="#Notifications" timestamp="1585386976471">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state x="552" y="198" key="#Notifications/0.0.1920.1080@0.0.1920.1080" timestamp="1585386976471" />
+    <state x="585" y="108" key="CommitChangelistDialog2" timestamp="1586625938233">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state x="585" y="108" key="CommitChangelistDialog2/0.0.1920.1080@0.0.1920.1080" timestamp="1586625938233" />
+    <state x="740" y="295" key="FileChooserDialogImpl" timestamp="1585827479797">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state x="740" y="295" key="FileChooserDialogImpl/0.0.1920.1080@0.0.1920.1080" timestamp="1585827479797" />
+    <state width="1877" height="295" key="GridCell.Tab.0.bottom" timestamp="1586625986857">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state width="1877" height="295" key="GridCell.Tab.0.bottom/0.0.1920.1080@0.0.1920.1080" timestamp="1586625986857" />
+    <state width="1877" height="295" key="GridCell.Tab.0.center" timestamp="1586625986855">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state width="1877" height="295" key="GridCell.Tab.0.center/0.0.1920.1080@0.0.1920.1080" timestamp="1586625986855" />
+    <state width="1877" height="295" key="GridCell.Tab.0.left" timestamp="1586625986855">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state width="1877" height="295" key="GridCell.Tab.0.left/0.0.1920.1080@0.0.1920.1080" timestamp="1586625986855" />
+    <state width="1877" height="295" key="GridCell.Tab.0.right" timestamp="1586625986857">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state width="1877" height="295" key="GridCell.Tab.0.right/0.0.1920.1080@0.0.1920.1080" timestamp="1586625986857" />
+    <state x="262" y="242" key="RollbackChangesDialog" timestamp="1586625927834">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state x="262" y="242" key="RollbackChangesDialog/0.0.1920.1080@0.0.1920.1080" timestamp="1586625927834" />
+    <state x="0" y="185" key="SettingsEditor" timestamp="1586626051262">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state x="0" y="185" key="SettingsEditor/0.0.1920.1080@0.0.1920.1080" timestamp="1586626051262" />
+    <state x="552" y="273" key="Vcs.Push.Dialog.v2" timestamp="1586625683155">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state x="552" y="273" key="Vcs.Push.Dialog.v2/0.0.1920.1080@0.0.1920.1080" timestamp="1586625683155" />
+    <state x="769" y="454" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1586624146448">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state x="769" y="454" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2/0.0.1920.1080@0.0.1920.1080" timestamp="1586624146448" />
+    <state x="616" y="250" width="672" height="677" key="run.anything.popup" timestamp="1585743057969">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state x="616" y="250" width="672" height="677" key="run.anything.popup/0.0.1920.1080@0.0.1920.1080" timestamp="1585743057969" />
+    <state x="623" y="239" width="672" height="678" key="search.everywhere.popup" timestamp="1586611382692">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state x="623" y="239" width="672" height="678" key="search.everywhere.popup/0.0.1920.1080@0.0.1920.1080" timestamp="1586611382692" />
+  </component>
+</project>

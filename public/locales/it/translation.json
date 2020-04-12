@@ -1,0 +1,57 @@
+{
+    "hero": [
+        {
+            "tit":"ARREDO, COMUNICAZIONE E FORMAZIONE INTEGRATI", 
+            "txt":"per un negozio ad alto impatto"
+        }
+    ],
+    "heading": [
+        {
+            "tit":"Servizi MPM per i centri ottici", 
+            "txt":"più che un costo un investimento"
+        }
+    ],
+    "services":[
+        {
+            "tit":"INNESCHI EMOTIVI",
+            "txt":" Lo store è il luogo dove si risveglia il desiderio dei prodotti e la percezione dei suoi valori. Tuttavia, se la sua realizzazione è affidata a figure diverse, in modalità e tempi diversi, si può incorrere in un risultato che non rispecchia l’identità del punto vendita e che non parla in modo coerente al target.",
+            "aos":"fade-right",
+            "time":"2000",
+            "id":0
+        },
+        {
+            "tit": "COMPETENZE INTEGRATE", 
+            "txt":"MPM riunisce in un unico team MODELLANDO, PREGLIASCO e MENTHA, 3 expertise che lavorano in sinergia per un risultato armonizzato, dinamico, coinvolgente e con una chiara identità. Perchè un buon fil-rouge, è uno strumento che aiuta la decisione d’acquisto.",
+            "aos":"fade-up",
+            "time":"2000",
+            "id":1
+        },
+        {
+            "tit": "E ADESSO, …TWIST!", 
+            "txt":"Il luogo fisico della vendita ha costante bisogno di innovazione. Per questo diamo vita a progetti originali come TWIST, l’arredo emotivo che cambia pelle in modo semplice e ad un costo contenuto. Vesti il tuo negozio secondo la stagione o un tema e ambientalo con la vetrina: l’effetto sarà wow!",
+            "aos":"fade-left",
+            "time":"2000",
+            "id":2
+        }
+    ],
+    "partner":[
+        {
+            "txt":"Ogni nostro progetto di design nasce con un'idea di spazi, materiali, stile, colori e si evolve sino alla produzione dei mobili. Creiamo l'ambientazione giusta per sottolineare l'identita del tuo negozio.",
+            "boldo":"Perchè la personalità dello store ha un valore per il tuo cliente.",
+            "time":"1500",
+            "id":0
+        },
+        {
+            "txt":"Anche la più efficace esposizione dei prodotti ha bisogno dell'apporto di personale skillato e l'attività di formazione e coaching provvede proprio a questo: potenziare le performance sul campo. ",
+            "boldo":"Perchè il risultato è l'obiettivo numero uno.",
+            "time":"1800",
+            "id":1
+        },
+        {
+            "txt":"Logo, stampati, immagine coordinata... ti diamo una mano a far convergere ogni elemento di comunicazione nel tuo sound personale ed unico, così arriverà meglio e resterà più a lungo nel ricordo del cliente, orientandone la scelta. ",
+            "boldo":"Perchè oggi se non ti distingui, ti estingui.",
+            "time":"2000",
+            "id":2
+        }
+    ]
+}
